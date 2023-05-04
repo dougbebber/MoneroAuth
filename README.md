@@ -1,7 +1,7 @@
 # MoneroAuth
 **Self-Sovereign Identity Protocol**
 
-MoneroAuth is a protocol that was originally designed to provide a standard for secure authentication to digital resources, such as websites, in order to obsolete less secure approaches like user names/passwords and to eliminate the dependence on Big tech and their OAuth dominance. The MoneroAuth protocol was then extended to provide for secure authentication for access to physical resources, such as physical locks.
+MoneroAuth is a protocol that was originally designed to provide an open standard for secure authentication to digital resources, such as websites, in order to obsolete less secure approaches like user names/passwords and to eliminate the dependence on Big tech and their OAuth dominance. The MoneroAuth protocol was then extended to provide for secure authentication for access to physical resources, such as physical locks.
 
 Because of the complexity involved in public key cryptography and key management, the initial versions of the MoneroAuth software proved to be difficult to use and presented a significant barrier to mass adoption. Because of this, we put the project on hold for a few years while we explored ways to make the protocol easy-to-use with a focus on user-experience. We believe we have made significant advancement and are now ready to introduce the protocol to the public as an open source,  permissionless, secure protocol for self-sovereign identity purposes.
 
